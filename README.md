@@ -10,4 +10,12 @@
 
 
 
-# Ejercicio 2: Segunda pantalla con registro de estudiante.
+# Ejercicio 2: Pantalla con registro de estudiante.
+
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-01 at 12 23 09 PM" src="https://github.com/user-attachments/assets/9e1f0a5b-b335-443c-81fd-3e67c904262a" />
+
+<img width="814" height="466" alt="image" src="https://github.com/user-attachments/assets/c2d2067f-43ce-4d22-a557-7cb4c1550fef" />
+
+# Ejercicio 3: App con CRUD completo
+
+
