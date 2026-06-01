@@ -18,4 +18,5 @@
 
 # Ejercicio 3: App con CRUD completo
 
+<img width="720" height="1600" alt="WhatsApp Image 2026-06-01 at 12 44 17 PM" src="https://github.com/user-attachments/assets/e65b822f-54c8-47c7-a866-b9dff09a6723" />
 
